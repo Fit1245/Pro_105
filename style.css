@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient(#9117e8,#e68781, #f7b90f, #18f50c); 
+    color:aqua;
+ }
+ .heading{
+     width:70%;
+     font-size:20px;
+ }
+ #camera{
+     border:5px dashed  greenyellow;
+     width:350px;
+     height: 300px;
+ }
+ 
+ .name_of_objects , #result_member_name , #result_member_accuracy , .p_1 {
+     color: midnightblue;
+ }
